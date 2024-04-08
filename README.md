@@ -43,11 +43,6 @@
 <img align="left" alt="DevTools" width="30px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
 <img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
