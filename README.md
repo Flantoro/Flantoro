@@ -41,11 +41,10 @@
 <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
 <img align="left" alt="Swagger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
 <img align="left" alt="DevTools" width="30px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
-<br />
 <img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 
 
-
+<br />
 <br />
 <br />
 <br />
